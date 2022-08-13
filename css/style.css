@@ -200,6 +200,7 @@ th {
 footer {
   text-align: center;
   animation: foot 4s linear;
+  font-family: 600;
 }
 
 @keyframes aco {
