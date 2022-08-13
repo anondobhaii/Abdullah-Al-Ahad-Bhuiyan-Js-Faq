@@ -28,7 +28,7 @@ h1 {
   z-index: 1000;
   align-items: center;
   justify-content: center;
-  height: 10vh;
+  height: 5em;
   width: 100%;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   background: #fff;
